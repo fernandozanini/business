@@ -1,1 +1,4 @@
 XBOX SERIES S;1;5000;https://www.amazon.com.br/Microsoft-Console-Xbox-Series-S/dp/B08JN2VMGX/
+XBOX SERIES X;2;4800;https://www.amazon.com.br/Microsoft-Console-Xbox-Series-X/dp/B088GHBH92/
+CONSOLE PS5;3;5000;https://www.amazon.com.br/PlayStation-Console-PlayStation®5/dp/B088GNRX3J
+CONSOLE PS5;4;5000;https://www.amazon.com.br/Console-PlayStation-PS5-Sony-Branco/dp/B08GGGBKRQ
