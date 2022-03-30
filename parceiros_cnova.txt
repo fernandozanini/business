@@ -1,9 +1,9 @@
 casasbahia;latampass;https://www.casasbahia.com.br/Telefones-Celulares/Smartphones/iPhone/iphone-11-apple-64gb-product-red-tela-de-61-camera-dupla-de-12mp-ios-55014766.html?IdSku=55014766
 casasbahia;livelo;https://www.casasbahia.com.br/Telefones-Celulares/Smartphones/iPhone/iphone-11-apple-64gb-product-red-tela-de-61-camera-dupla-de-12mp-ios-55014766.html?IdSku=55014766
 casasbahia;tudoazul;https://www.casasbahia.com.br/Telefones-Celulares/Smartphones/iPhone/iphone-11-apple-64gb-product-red-tela-de-61-camera-dupla-de-12mp-ios-55014766.html?IdSku=55014766
-extra;latampass;https://www.casasbahia.com.br/Telefones-Celulares/Smartphones/iPhone/iphone-11-apple-64gb-product-red-tela-de-61-camera-dupla-de-12mp-ios-55014766.html?IdSku=55014766
-extra;livelo;https://www.casasbahia.com.br/Telefones-Celulares/Smartphones/iPhone/iphone-11-apple-64gb-product-red-tela-de-61-camera-dupla-de-12mp-ios-55014766.html?IdSku=55014766
-extra;tudoazul;https://www.casasbahia.com.br/Telefones-Celulares/Smartphones/iPhone/iphone-11-apple-64gb-product-red-tela-de-61-camera-dupla-de-12mp-ios-55014766.html?IdSku=55014766
-pontofrio;latampass;https://www.casasbahia.com.br/Telefones-Celulares/Smartphones/iPhone/iphone-11-apple-64gb-product-red-tela-de-61-camera-dupla-de-12mp-ios-55014766.html?IdSku=55014766
-pontofrio;livelo;https://www.casasbahia.com.br/Telefones-Celulares/Smartphones/iPhone/iphone-11-apple-64gb-product-red-tela-de-61-camera-dupla-de-12mp-ios-55014766.html?IdSku=55014766
-pontofrio;tudoazul;https://www.casasbahia.com.br/Telefones-Celulares/Smartphones/iPhone/iphone-11-apple-64gb-product-red-tela-de-61-camera-dupla-de-12mp-ios-55014766.html?IdSku=55014766
+extra;latampass;https://www.extra.com.br/Telefones-Celulares/Smartphones/iPhone/iphone-11-apple-64gb-product-red-tela-de-61-camera-dupla-de-12mp-ios-55014766.html?IdSku=55014766
+extra;livelo;https://www.extra.com.br/Telefones-Celulares/Smartphones/iPhone/iphone-11-apple-64gb-product-red-tela-de-61-camera-dupla-de-12mp-ios-55014766.html?IdSku=55014766
+extra;tudoazul;https://www.extra.com.br/Telefones-Celulares/Smartphones/iPhone/iphone-11-apple-64gb-product-red-tela-de-61-camera-dupla-de-12mp-ios-55014766.html?IdSku=55014766
+pontofrio;latampass;https://www.pontofrio.com.br/Telefones-Celulares/Smartphones/iPhone/iphone-11-apple-64gb-product-red-tela-de-61-camera-dupla-de-12mp-ios-55014766.html?IdSku=55014766
+pontofrio;livelo;https://www.pontofrio.com.br/Telefones-Celulares/Smartphones/iPhone/iphone-11-apple-64gb-product-red-tela-de-61-camera-dupla-de-12mp-ios-55014766.html?IdSku=55014766
+pontofrio;tudoazul;https://www.pontofrio.com.br/Telefones-Celulares/Smartphones/iPhone/iphone-11-apple-64gb-product-red-tela-de-61-camera-dupla-de-12mp-ios-55014766.html?IdSku=55014766
