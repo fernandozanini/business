@@ -4,3 +4,4 @@ extra
 magazine-luiza
 ponto-frio
 shoptime
+fast-shop
